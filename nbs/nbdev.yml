@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "xgov-hack"
+  site-url: "https://AndreasVarotsis.github.io/xgov-hack"
+  description: "Resources for cross-gov fraud hack"
+  repo-branch: main
+  repo-url: "https://github.com/AndreasVarotsis/xgov-hack"
